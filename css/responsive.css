@@ -1,0 +1,542 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .hero-item h1 {
+        font-size:60px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+    .logo .menu-btn-3 {
+        display:block;
+    }
+    .logo {
+        display: flex;
+        align-items:center;
+        justify-content:space-between;
+    }
+    .menu-area ul {
+        text-align:left;
+        margin-top:20px;
+    }
+    .menu-area ul li {
+       display:block;
+       margin-top:15px;
+       margin-left:0;
+    }
+    .menu-area {
+        display:none;
+    }
+
+    .hero-area {
+        margin-top:50px;
+    }
+    .hero-item h1 {
+        font-size:50px;
+    }
+    .design-img .img-demo {
+        margin-left:0;
+    }
+    .design-item h1 {
+        font-size:100px;
+    }
+    .design-item h3 {
+        font-size:32px;
+        margin-bottom:0;
+    }
+    .design-item p {
+        font-size:16px;
+        margin:30px 0;
+    }
+    .design-item a {
+        margin:10px 0;
+    }
+    .img-demo {
+        margin-top:20px;
+    }
+    .fixed-price-header h2 {
+        font-size:35px;
+    }
+    .fixed-price-header p {
+        width: 100%;
+        max-width:60%;
+        font-size: 16px;
+        margin-top:20px;
+        margin-bottom:40px;
+    }
+    .fixed-item h4 {
+        font-size:20px;
+    }
+    .fixed-item p {
+        font-size:15px;
+    }
+    .planes-header h2 {
+        font-size:40px;
+        margin:30px 0;
+    }
+    .planes-item {
+        margin-bottom:20px;
+    }
+    .planes-content-top h3 {
+        font-size:30px;
+    }
+    .planes-content-top p {
+        font-size:20px;
+    }
+    .planes-content-bottom a {
+        font-size:20px;
+    }
+    .faq-header h2 {
+        font-size:40px;
+    }
+    .accordion-button {
+        font-size:20px;
+    }
+    .accordion-body p {
+        font-size:16px;
+    }
+    .logo a img {
+        max-width:100px;
+    }
+    .blog-header h2 {
+        font-size:40px;
+    }
+    .blog-header p {
+        font-size:15px;
+        max-width:55%;
+    }
+    .blog-item {
+        margin-bottom:40px;
+        max-width:50%;
+    }
+    .blog-item p {
+        font-size:35px;
+    }
+    .blog-item h3 {
+        font-size:35px;
+    }
+    .f-logo {
+        text-align:left;
+        margin-bottom:20px;
+    }
+    .f-item {
+        margin-top:30px;
+    }
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+    .logo .menu-btn-3 {
+        display:block;
+    }
+    .logo {
+        display: flex;
+        align-items:center;
+        justify-content:space-between;
+    }
+    .menu-area ul {
+        text-align:left;
+        margin-top:20px;
+    }
+    .menu-area ul li {
+       display:block;
+       margin-top:15px;
+       margin-left:0;
+    }
+    .menu-area {
+        display:none;
+    }
+
+    .hero-area {
+        margin-top:50px;
+    }
+    .hero-item h1 {
+        font-size:50px;
+    }
+    .design-img .img-demo {
+        margin-left:0;
+    }
+    .design-item h1 {
+        font-size:100px;
+    }
+    .design-item h3 {
+        font-size:32px;
+        margin-bottom:0;
+    }
+    .design-item p {
+        font-size:16px;
+        margin:30px 0;
+    }
+    .design-item a {
+        margin:10px 0;
+    }
+    .img-demo {
+        margin-top:20px;
+    }
+    .fixed-price-header h2 {
+        font-size:35px;
+    }
+    .fixed-price-header p {
+        width: 100%;
+        max-width:80%;
+        font-size: 16px;
+        margin-top:20px;
+        margin-bottom:40px;
+    }
+    .fixed-item h4 {
+        font-size:20px;
+    }
+    .fixed-item p {
+        font-size:15px;
+    }
+    .planes-header h2 {
+        font-size:40px;
+        margin:30px 0;
+    }
+    .planes-item {
+        margin-bottom:20px;
+    }
+    .planes-content-top h3 {
+        font-size:30px;
+    }
+    .planes-content-top p {
+        font-size:20px;
+    }
+    .planes-content-bottom a {
+        font-size:20px;
+    }
+    .faq-header h2 {
+        font-size:40px;
+    }
+    .accordion-button {
+        font-size:20px;
+    }
+    .accordion-body p {
+        font-size:16px;
+    }
+    .logo a img {
+        max-width:100px;
+    }
+    .blog-header h2 {
+        font-size:40px;
+    }
+    .blog-header p {
+        font-size:15px;
+        max-width:55%;
+    }
+    .blog-item {
+        margin-bottom:40px;
+        max-width:50%;
+    }
+    .blog-item p {
+        font-size:35px;
+    }
+    .blog-item h3 {
+        font-size:35px;
+    }
+    .f-logo {
+        text-align:left;
+        margin-bottom:10px;
+    }
+    .f-item {
+        margin-top:15px;
+    }
+    .f-logo a img {
+        max-width:130px;
+    }
+    .f-item h4 {
+        font-size:30px;
+    }
+    .f-item p {
+        font-size:18px;
+    }
+    .f-item a {
+        font-size:14px;
+    }
+    .menu-btn-3 span {
+        width:30px;
+        height:4px;
+    }
+    .menu-btn-3 span::after {
+        width:30px;
+        height:4px;
+    }
+    .menu-btn-3 span::before {
+        width:30px;
+        height:4px;
+    }
+    footer {
+        padding:45px 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+    .logo .menu-btn-3 {
+        display:block;
+    }
+    .logo {
+        display: flex;
+        align-items:center;
+        justify-content:space-between;
+    }
+    .menu-area ul {
+        text-align:left;
+        margin-top:20px;
+    }
+    .menu-area ul li {
+       display:block;
+       margin-top:15px;
+       margin-left:0;
+    }
+    .menu-area {
+        display:none;
+    }
+
+    .hero-area {
+        margin-top:50px;
+    }
+    .hero-item h1 {
+        font-size:25px;
+    }
+    .design-img .img-demo {
+        margin-left:0;
+    }
+    .design-item h1 {
+        font-size:70px;
+    }
+    .design-area {
+        padding-top:50px;
+    }
+    .design-item h3 {
+        font-size:25px;
+        margin-bottom:0;
+    }
+    .design-item a {
+        font-size:14px;
+    }
+    .design-item p {
+        font-size:14px;
+        margin:20px 0;
+    }
+    .design-item a {
+        margin:10px 0;
+    }
+    .img-demo {
+        margin-top:20px;
+    }
+    .fixed-price-header h2 {
+        font-size:25px;
+    }
+    .fixed-price-header p {
+        width: 100%;
+        max-width:100%;
+        font-size:14px;
+        margin-top:20px;
+        margin-bottom:30px;
+    }
+    .fixed-item img {
+        max-width:60px;
+    }
+    .fixed-item h4 {
+        font-size:18px;
+    }
+    .fixed-item p {
+        font-size:12px;
+    }
+    .planes-header h2 {
+        font-size:25px;
+        margin:30px 0;
+    }
+    .planes-item {
+        margin-bottom:20px;
+    }
+    .planes-content-top h3 {
+        font-size:20px;
+    }
+    .planes-content-top p {
+        font-size:16px;
+    }
+    .planes-content-bottom a {
+        font-size:16px;
+    }
+    .planes-item {
+        min-height:400px;
+    }
+    .faq-item {
+        max-width:100%;
+    }
+    .faq-header h2 {
+        font-size:25px;
+    }
+    .accordion-button {
+        font-size:16px;
+    }
+    .accordion-body p {
+        font-size:16px;
+    }
+    .logo a img {
+        max-width:70px;
+    }
+    .blog-area {
+        padding:30px 0;
+    }
+    .blog-header h2 {
+        font-size:25px;
+    }
+    .blog-header p {
+        font-size:12px;
+        max-width:100%;
+    }
+    .blog-item {
+        margin-bottom:40px;
+        max-width:70%;
+    }
+    .blog-item p {
+        font-size:25px;
+    }
+    .blog-item h3 {
+        font-size:25px;
+    }
+    footer {
+        padding:50px 0;
+    }
+    .f-logo {
+        text-align:left;
+        margin-bottom:10px;
+    }
+    .f-item {
+        margin-top:15px;
+    }
+    .f-logo a img {
+        max-width:100px;
+    }
+    .f-item h4 {
+        font-size:25px;
+    }
+    .f-item p {
+        font-size:16px;
+    }
+    .f-item a {
+        font-size:12px;
+    }
+    .hero-item p {
+        max-width:80%;
+        font-size:12px;
+        margin-top:15px;
+    }
+    .hero-btn a {
+        font-size:12px;
+    }
+    .hero-btn {
+        margin-top:30px;
+    }
+    .header-area {
+        margin-top:10px;
+    }
+    .menu-btn-3 span {
+        width:30px;
+        height:4px;
+    }
+    .menu-btn-3 span::after {
+        width:30px;
+        height:4px;
+    }
+    .menu-btn-3 span::before {
+        width:30px;
+        height:4px;
+    }
+    footer {
+        padding:35px 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
